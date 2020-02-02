@@ -1,3 +1,3 @@
 Natours: </br>
 
-Advanced CSS(SASS) Project
+Advanced CSS(SASS) Project, npm, responsive web design, responsive images
